@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "morganwm github fork Theme",
+  "name": "mwm gh f Theme",
   "author": "Morganwm",
   "themes": [
     {
-      "name": "morganwm github fork Light",
+      "name": "mwm gh f Light",
       "appearance": "light",
       "style": {
         "accents": [
@@ -445,15 +445,10 @@
       }
     },
     {
-      "name": "morganwm github fork Light Colorblind",
+      "name": "mwm gh f Light Colorblind",
       "appearance": "light",
       "style": {
-        "accents": [
-          "#006edbff",
-          null,
-          "#b88700ff",
-          "#ce2c85ff"
-        ],
+        "accents": ["#006edbff", null, "#b88700ff", "#ce2c85ff"],
         "background.appearance": "opaque",
         "background": "#ffffffff",
         "border": "#d1d9e0ff",
@@ -872,7 +867,7 @@
       }
     },
     {
-      "name": "morganwm github fork Light High Contrast",
+      "name": "mwm gh f Light High Contrast",
       "appearance": "light",
       "style": {
         "accents": [
@@ -1313,15 +1308,10 @@
       }
     },
     {
-      "name": "morganwm github fork Light Tritanopia",
+      "name": "mwm gh f Light Tritanopia",
       "appearance": "light",
       "style": {
-        "accents": [
-          "#179b9bff",
-          "#b88700ff",
-          "#894cebff",
-          "#ce2c85ff"
-        ],
+        "accents": ["#179b9bff", "#b88700ff", "#894cebff", "#ce2c85ff"],
         "background.appearance": "opaque",
         "background": "#ffffffff",
         "border": "#d1d9e0ff",
@@ -1742,7 +1732,7 @@
       }
     },
     {
-      "name": "morganwm github fork Dark",
+      "name": "mwm gh f Dark",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -2183,15 +2173,10 @@
       }
     },
     {
-      "name": "morganwm github fork Dark Colorblind",
+      "name": "mwm gh f Dark Colorblind",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#0576ffff",
-          null,
-          "#895906ff",
-          "#d34591ff"
-        ],
+        "accents": ["#0576ffff", null, "#895906ff", "#d34591ff"],
         "background.appearance": "opaque",
         "background": "#0d1117ff",
         "border": "#3d444dff",
@@ -2610,7 +2595,7 @@
       }
     },
     {
-      "name": "morganwm github fork Dark High Contrast",
+      "name": "mwm gh f Dark High Contrast",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -3051,15 +3036,10 @@
       }
     },
     {
-      "name": "morganwm github fork Dark Tritanopia",
+      "name": "mwm gh f Dark Tritanopia",
       "appearance": "dark",
       "style": {
-        "accents": [
-          "#106c70ff",
-          "#895906ff",
-          "#975bf1ff",
-          "#d34591ff"
-        ],
+        "accents": ["#106c70ff", "#895906ff", "#975bf1ff", "#d34591ff"],
         "background.appearance": "opaque",
         "background": "#0d1117ff",
         "border": "#3d444dff",
@@ -3480,7 +3460,7 @@
       }
     },
     {
-      "name": "morganwm github fork Dark Dimmed",
+      "name": "mwm gh f Dark Dimmed",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -3921,7 +3901,7 @@
       }
     },
     {
-      "name": "morganwm github fork black",
+      "name": "mwm gh f black",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -4362,7 +4342,7 @@
       }
     },
     {
-      "name": "morganwm github fork dim2",
+      "name": "mwm gh f dim2",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -4803,7 +4783,7 @@
       }
     },
     {
-      "name": "morganwm github fork Dark bright text",
+      "name": "mwm gh f Dark bright text",
       "appearance": "dark",
       "style": {
         "accents": [
