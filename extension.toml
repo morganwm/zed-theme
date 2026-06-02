@@ -1,0 +1,7 @@
+id = "github-theme"
+name = "GitHub Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["morganwm"]
+description = "A Dimmer Version of Github Dark"
+repository = "https://github.com/morganwm/zed-theme"
