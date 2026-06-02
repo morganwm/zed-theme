@@ -1,5 +1,5 @@
-id = "morganwm-custom-github-theme"
-name = "MorganWM Custom Github Theme"
+id = "morganwm-github-fork-theme"
+name = "MorganWM Github Fork Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["morganwm"]
